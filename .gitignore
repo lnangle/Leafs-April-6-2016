@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Toronto Maple Leafs April 6</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+		<body>
+			<header>
+				<img src="img/toronto_maple_leafs-1040x572.jpg">
+			</header>
+
+			<main>
+				<h1>Toronto Maple Leafs</h1>
+					<p>You can find us in <a class="highlight" href="http://2.cdn.nhle.com/senators/images/upload/2013/03/Platinum.jpg">Row 1</a>!! Right beside the visitors bench. Special seats for special people. Celebrating the end of Year 2 of <a href="http://www.law.utoronto.ca/">Law School</a> for The Hil!</p>
+				
+
+				<h2>Wednesday April 6th</h2>
+					<p>Puck drops at 7pm, come down to my office early and we can go to <b>Real Sports Bar</b> for a pre-game snack! It's their final home game of the season. Golf season coming quickly for these guys.</p>
+
+
+				<h2>Will they win or lose?</h2>
+					<p>Hopefully lose to help their chances of getting the 1st overall pick in next year's NHL Entry Draft. WIll the crowd be cheering <I>against</I> the Leafs?
+				Here we <a href="https://seatgeek.com/tba/wp-content/uploads/2011/10/nhl-glass-seats-front-row-ticket-14608-e1403759237289.jpg">ARE!</a></p>
+			</main>
+			<img src="img/Leafs on 7.JPG">
+				<p>  <a class="highlight" href="http://www.thestar.com/sports/leafs/2016/04/05/columbus-blue-jackets-at-toronto-maple-leafs-wednesday-game-preview.html"> Read the GAME PREVIEW HERE</a></p>
+			<footer>
+				Copyright Luke's web productions 2016
+			</footer>
+		</body>
+</html>
